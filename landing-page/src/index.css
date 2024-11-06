@@ -1,0 +1,44 @@
+body {
+  font-family: "Lato", sans-serif; /* Puedes cambiarlo a la tipografía que desees */
+  background-color: #1c1b29;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header,
+.main-content,
+.footer {
+  padding: 20px;
+  text-align: center;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  color: #ffc107;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #2a293b;
+  border: none;
+  border-radius: 8px;
+  padding: 20px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.card-title {
+  color: #ffc107;
+  font-weight: bold;
+}
+
+.card-text {
+  color: #d1d1e0;
+}
